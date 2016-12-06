@@ -34,8 +34,8 @@ public class CameraController : MonoBehaviour
 	void Update ()
 	{
 		onStateCycle ();
-		currLerpDistance += cameraTackingSpeed;
-		transform.position = Vector3.Lerp (lastTargetPosition, currTargetPosition, currLerpDistance);
+		//currLerpDistance += cameraTackingSpeed;
+		transform.position = Vector3.Lerp (lastTargetPosition, currTargetPosition, cameraTackingSpeed);
 	}
 
 	void onStateChange (PlayerStateController.playerStates newstate)
@@ -45,18 +45,18 @@ public class CameraController : MonoBehaviour
 
 	void onStateCycle ()
 	{
-		switch (currState) {
-		case PlayerStateController.playerStates.idle:
-			trackPlayer ();
-			break;
-		case PlayerStateController.playerStates.left:
-			trackPlayer ();
-			break;
-		case PlayerStateController.playerStates.right:
-			trackPlayer ();
-			break;
-
-		}
+//		switch (currState) {
+//		case PlayerStateController.playerStates.idle:
+//			trackPlayer ();
+//			break;
+//		case PlayerStateController.playerStates.left:
+//			trackPlayer ();
+//			break;
+//		case PlayerStateController.playerStates.right:
+//			trackPlayer ();
+//			break;
+//		}
+		trackPlayer ();
 	}
 
 	void trackPlayer ()

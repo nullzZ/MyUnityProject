@@ -1,0 +1,496 @@
+fileFormatVersion: 2
+guid: 53c154a31b8e0764b9e3179bebae71df
+timeCreated: 1481004204
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_0"
+    21300002: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_1"
+    21300004: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_2"
+    21300006: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_3"
+    21300008: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_4"
+    21300010: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_5"
+    21300012: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_6"
+    21300014: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_7"
+    21300016: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_8"
+    21300018: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_9"
+    21300020: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_10"
+    21300022: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_11"
+    21300024: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_12"
+    21300026: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_13"
+    21300028: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_14"
+    21300030: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_15"
+    21300032: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_16"
+    21300034: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_17"
+    21300036: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_18"
+    21300038: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_19"
+    21300040: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_20"
+    21300042: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_21"
+    21300044: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_22"
+    21300046: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_23"
+    21300048: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_24"
+    21300050: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_25"
+    21300052: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_26"
+    21300054: "\u5343\u5E93\u7F51-\u5361\u901A\u5B50\u5F39\u5408\u96C6_27"
+    21300056: zidan_0
+    21300058: zidan_1
+    21300060: zidan_2
+    21300062: zidan_3
+    21300064: zidan_4
+    21300066: zidan_5
+    21300068: zidan_6
+    21300070: zidan_7
+    21300072: zidan_8
+    21300074: zidan_9
+    21300076: zidan_10
+    21300078: zidan_11
+    21300080: zidan_12
+    21300082: zidan_13
+    21300084: zidan_14
+    21300086: zidan_15
+    21300088: zidan_16
+    21300090: zidan_17
+    21300092: zidan_18
+    21300094: zidan_19
+    21300096: zidan_20
+    21300098: zidan_21
+    21300100: zidan_22
+    21300102: zidan_23
+    21300104: zidan_24
+    21300106: zidan_25
+    21300108: zidan_26
+    21300110: zidan_27
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zidan_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 736
+        width: 392
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_1
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 808
+        width: 152
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_2
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 768
+        width: 192
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 724
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_4
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 716
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_5
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 680
+        width: 265
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_6
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 653
+        width: 130
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 491
+        width: 307
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_8
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 176
+        width: 336
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_9
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 510
+        width: 176
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_10
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 599
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_11
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 624
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_12
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 624
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_13
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 362
+        width: 238
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_14
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 574
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_15
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 142
+        width: 102
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 208
+        width: 90
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_17
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 46
+        width: 243
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_18
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 167
+        width: 242
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_19
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 270
+        width: 128
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_20
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 56
+        width: 204
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_21
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 162
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_22
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 166
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_23
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 152
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 301
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_25
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 89
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_26
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 44
+        width: 48
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: zidan_27
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 28
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
